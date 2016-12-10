@@ -1,215 +1,216 @@
+$dyndns=no::
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; tiddlyspace.com
-@ A 0 192.30.252.153
-@ A 0 192.30.252.154
-www CNAME 0 tiddlyspace.github.io
+@ A 0 192.30.252.153 900
+@ A 0 192.30.252.154 900
+www CNAME 0 tiddlyspace.github.io 900
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ; Spaces owned by Anna Freud National Centre for Children and Families, UK
-afc-pcs URL 0 https://spaces.xememex.com/afc-pcs
-afc-theme URL 0 https://spaces.xememex.com/afc-theme
-ambit URL 0 https://spaces.xememex.com/ambit
-ambit-24sevenfostering URL 0 https://spaces.xememex.com/ambit-24sevenfostering
-ambit-2trfootball URL 0 https://spaces.xememex.com/ambit-2trfootball
-ambit-afc URL 0 https://spaces.xememex.com/ambit-afc
-ambit-aim URL 0 https://spaces.xememex.com/ambit-aim
-ambit-alot URL 0 https://spaces.xememex.com/ambit-alot
-ambit-altrecht URL 0 https://spaces.xememex.com/ambit-altrecht
-ambit-amass URL 0 https://spaces.xememex.com/ambit-amass
-ambit-aspirehouse URL 0 https://spaces.xememex.com/ambit-aspirehouse
-ambit-beechcroft URL 0 https://spaces.xememex.com/ambit-beechcroft
-ambit-belfastcfc URL 0 https://spaces.xememex.com/ambit-belfastcfc
-ambit-belfastdamhs URL 0 https://spaces.xememex.com/ambit-belfastdamhs
-ambit-belfastypc URL 0 https://spaces.xememex.com/ambit-belfastypc
-ambit-benjamin URL 0 https://spaces.xememex.com/ambit-benjamin
-ambit-bexley URL 0 https://spaces.xememex.com/ambit-bexley
-ambit-brathay URL 0 https://spaces.xememex.com/ambit-brathay
-ambit-bronzefield URL 0 https://spaces.xememex.com/ambit-bronzefield
-ambit-build-it URL 0 https://spaces.xememex.com/ambit-build-it
-ambit-burynorth URL 0 https://spaces.xememex.com/ambit-burynorth
-ambit-burysouth URL 0 https://spaces.xememex.com/ambit-burysouth
-ambit-cait URL 0 https://spaces.xememex.com/ambit-cait
-ambit-caldecott URL 0 https://spaces.xememex.com/ambit-caldecott
-ambit-cambsist URL 0 https://spaces.xememex.com/ambit-cambsist
-ambit-camden URL 0 https://spaces.xememex.com/ambit-camden
-ambit-camden16plus URL 0 https://spaces.xememex.com/ambit-camden16plus
-ambit-camdencentreforlearning URL 0 https://spaces.xememex.com/ambit-camdencentreforlearning
-ambit-camdencin URL 0 https://spaces.xememex.com/ambit-camdencin
-ambit-camdencommunitysafety URL 0 https://spaces.xememex.com/ambit-camdencommunitysafety
-ambit-camdencomplexneeds URL 0 https://spaces.xememex.com/ambit-camdencomplexneeds
-ambit-camdendutyassessment URL 0 https://spaces.xememex.com/ambit-camdendutyassessment
-ambit-camdenedpsychs URL 0 https://spaces.xememex.com/ambit-camdenedpsychs
-ambit-camdeneducationwelfareservice URL 0 https://spaces.xememex.com/ambit-camdeneducationwelfareservice
-ambit-camdeneis URL 0 https://spaces.xememex.com/ambit-camdeneis
-ambit-camdenfif URL 0 https://spaces.xememex.com/ambit-camdenfif
-ambit-camdenfutures URL 0 https://spaces.xememex.com/ambit-camdenfutures
-ambit-camdenhousing URL 0 https://spaces.xememex.com/ambit-camdenhousing
-ambit-camdenieys URL 0 https://spaces.xememex.com/ambit-camdenieys
-ambit-camdeniys URL 0 https://spaces.xememex.com/ambit-camdeniys
-ambit-camdeniyss URL 0 https://spaces.xememex.com/ambit-camdeniyss
-ambit-camdenjcp URL 0 https://spaces.xememex.com/ambit-camdenjcp
-ambit-camdenlac URL 0 https://spaces.xememex.com/ambit-camdenlac
-ambit-camdenmalt URL 0 https://spaces.xememex.com/ambit-camdenmalt
-ambit-camdenprobationteam URL 0 https://spaces.xememex.com/ambit-camdenprobationteam
-ambit-camdensit URL 0 https://spaces.xememex.com/ambit-camdensit
-ambit-camdenypservicesshp URL 0 https://spaces.xememex.com/ambit-camdenypservicesshp
-ambit-camhs4younghackney URL 0 https://spaces.xememex.com/ambit-camhs4younghackney
-ambit-casus URL 0 https://spaces.xememex.com/ambit-casus
-ambit-cemind URL 0 https://spaces.xememex.com/ambit-cemind
-ambit-childrensbureau URL 0 https://spaces.xememex.com/ambit-childrensbureau
-ambit-cityandhackneyamht URL 0 https://spaces.xememex.com/ambit-cityandhackneyamht
-ambit-clarelodge URL 0 https://spaces.xememex.com/ambit-clarelodge
-ambit-communitypsychologicalservices URL 0 https://spaces.xememex.com/ambit-communitypsychologicalservices
-ambit-content URL 0 https://spaces.xememex.com/ambit-content
-ambit-damhs URL 0 https://spaces.xememex.com/ambit-damhs
-ambit-darwin URL 0 https://spaces.xememex.com/ambit-darwin
-ambit-dasl URL 0 https://spaces.xememex.com/ambit-dasl
-ambit-derry-omagh URL 0 https://spaces.xememex.com/ambit-derry-omagh
-ambit-edinburgh URL 0 https://spaces.xememex.com/ambit-edinburgh
-ambit-enfieldgangs URL 0 https://spaces.xememex.com/ambit-enfieldgangs
-ambit-factswales URL 0 https://spaces.xememex.com/ambit-factswales
-ambit-familyandchildcare URL 0 https://spaces.xememex.com/ambit-familyandchildcare
-ambit-familytraumacentre URL 0 https://spaces.xememex.com/ambit-familytraumacentre
-ambit-flaxfieldunit URL 0 https://spaces.xememex.com/ambit-flaxfieldunit
-ambit-fundaciovidalibarraquer URL 0 https://spaces.xememex.com/ambit-fundaciovidalibarraquer
-ambit-fwd URL 0 https://spaces.xememex.com/ambit-fwd
-ambit-geneva-omp URL 0 https://spaces.xememex.com/ambit-geneva-omp
-ambit-glasgowlaac URL 0 https://spaces.xememex.com/ambit-glasgowlaac
-ambit-greenwichacan URL 0 https://spaces.xememex.com/ambit-greenwichacan
-ambit-guernsey URL 0 https://spaces.xememex.com/ambit-guernsey
-ambit-hackneymind URL 0 https://spaces.xememex.com/ambit-hackneymind
-ambit-hackneyyouth URL 0 https://spaces.xememex.com/ambit-hackneyyouth
-ambit-hadi URL 0 https://spaces.xememex.com/ambit-hadi
-ambit-help URL 0 https://spaces.xememex.com/ambit-help
-ambit-hmpswaleside URL 0 https://spaces.xememex.com/ambit-hmpswaleside
-ambit-howto URL 0 https://spaces.xememex.com/ambit-howto
-ambit-ifit URL 0 https://spaces.xememex.com/ambit-ifit
-ambit-install URL 0 https://spaces.xememex.com/ambit-install
-ambit-ious-share URL 0 https://spaces.xememex.com/ambit-ious-share
-ambit-ipswich URL 0 https://spaces.xememex.com/ambit-ipswich
-ambit-islington-aot URL 0 https://spaces.xememex.com/ambit-islington-aot
-ambit-islington-exemplar URL 0 https://spaces.xememex.com/ambit-islington-exemplar
-ambit-jandrcare URL 0 https://spaces.xememex.com/ambit-jandrcare
-ambit-juvenilejusticecentre URL 0 https://spaces.xememex.com/ambit-juvenilejusticecentre
-ambit-kenteis URL 0 https://spaces.xememex.com/ambit-kenteis
-ambit-kentlinkworker URL 0 https://spaces.xememex.com/ambit-kentlinkworker
-ambit-kentlinkworkers URL 0 https://spaces.xememex.com/ambit-kentlinkworkers
-ambit-kestrel URL 0 https://spaces.xememex.com/ambit-kestrel
-ambit-kidsco URL 0 https://spaces.xememex.com/ambit-kidsco
-ambit-kiteteam URL 0 https://spaces.xememex.com/ambit-kiteteam
-ambit-lakewoodcentre URL 0 https://spaces.xememex.com/ambit-lakewoodcentre
-ambit-lisburndownpatrickcamhs URL 0 https://spaces.xememex.com/ambit-lisburndownpatrickcamhs
-ambit-mac URL 0 https://spaces.xememex.com/ambit-mac
-ambit-mac-new-theme-test URL 0 https://spaces.xememex.com/ambit-mac-new-theme-test
-ambit-metjeugd URL 0 https://spaces.xememex.com/ambit-metjeugd
-ambit-montana URL 0 https://spaces.xememex.com/ambit-montana
-ambit-mulberry URL 0 https://spaces.xememex.com/ambit-mulberry
-ambit-northdownandardscamhs URL 0 https://spaces.xememex.com/ambit-northdownandardscamhs
-ambit-northernirelandgeneral URL 0 https://spaces.xememex.com/ambit-northernirelandgeneral
-ambit-northernirelandsharedcontent URL 0 https://spaces.xememex.com/ambit-northernirelandsharedcontent
-ambit-northerntrust URL 0 https://spaces.xememex.com/ambit-northerntrust
-ambit-nwg URL 0 https://spaces.xememex.com/ambit-nwg
-ambit-offcentre URL 0 https://spaces.xememex.com/ambit-offcentre
-ambit-offtherecord URL 0 https://spaces.xememex.com/ambit-offtherecord
-ambit-onlyconnect URL 0 https://spaces.xememex.com/ambit-onlyconnect
-ambit-pathways URL 0 https://spaces.xememex.com/ambit-pathways
-ambit-pepprep URL 0 https://spaces.xememex.com/ambit-pepprep
-ambit-plugins URL 0 https://spaces.xememex.com/ambit-plugins
-ambit-plymouth URL 0 https://spaces.xememex.com/ambit-plymouth
-ambit-prakashellenhorn URL 0 https://spaces.xememex.com/ambit-prakashellenhorn
-ambit-redthread URL 0 https://spaces.xememex.com/ambit-redthread
-ambit-righthere URL 0 https://spaces.xememex.com/ambit-righthere
-ambit-safe URL 0 https://spaces.xememex.com/ambit-safe
-ambit-saferlondon URL 0 https://spaces.xememex.com/ambit-saferlondon
-ambit-savu URL 0 https://spaces.xememex.com/ambit-savu
-ambit-selfharmteam URL 0 https://spaces.xememex.com/ambit-selfharmteam
-ambit-set-connects URL 0 https://spaces.xememex.com/ambit-set-connects
-ambit-southeasternbess-step2team URL 0 https://spaces.xememex.com/ambit-southeasternbess-step2team
-ambit-southeasterntrust URL 0 https://spaces.xememex.com/ambit-southeasterntrust
-ambit-southerntrustcamhs URL 0 https://spaces.xememex.com/ambit-southerntrustcamhs
-ambit-starproject URL 0 https://spaces.xememex.com/ambit-starproject
-ambit-stories URL 0 https://spaces.xememex.com/ambit-stories
-ambit-suffolkcentral URL 0 https://spaces.xememex.com/ambit-suffolkcentral
-ambit-suffolkcoastal URL 0 https://spaces.xememex.com/ambit-suffolkcoastal
-ambit-suffolkcore URL 0 https://spaces.xememex.com/ambit-suffolkcore
-ambit-syepp URL 0 https://spaces.xememex.com/ambit-syepp
-ambit-tasks URL 0 https://spaces.xememex.com/ambit-tasks
-ambit-test URL 0 https://spaces.xememex.com/ambit-test
-ambit-theme-v3 URL 0 https://spaces.xememex.com/ambit-theme-v3
-ambit-theme-v3-test URL 0 https://spaces.xememex.com/ambit-theme-v3-test
-ambit-theme-v3-transition URL 0 https://spaces.xememex.com/ambit-theme-v3-transition
-ambit-themeswitchtest URL 0 https://spaces.xememex.com/ambit-themeswitchtest
-ambit-therapeuticsupportservices URL 0 https://spaces.xememex.com/ambit-therapeuticsupportservices
-ambit-tht-talksafe URL 0 https://spaces.xememex.com/ambit-tht-talksafe
-ambit-torbay URL 0 https://spaces.xememex.com/ambit-torbay
-ambit-torbaycamhs URL 0 https://spaces.xememex.com/ambit-torbaycamhs
-ambit-tsdhc URL 0 https://spaces.xememex.com/ambit-tsdhc
-ambit-twcoretester URL 0 https://spaces.xememex.com/ambit-twcoretester
-ambit-twentyfoursevenfostering URL 0 https://spaces.xememex.com/ambit-twentyfoursevenfostering
-ambit-wandsworth URL 0 https://spaces.xememex.com/ambit-wandsworth
-ambit-westernaustraliacamhs URL 0 https://spaces.xememex.com/ambit-westernaustraliacamhs
-ambit-winch URL 0 https://spaces.xememex.com/ambit-winch
-ambit-winchproject URL 0 https://spaces.xememex.com/ambit-winchproject
-ambit-ymhcentralnorfolk URL 0 https://spaces.xememex.com/ambit-ymhcentralnorfolk
-ambit-ymheastnorfolk URL 0 https://spaces.xememex.com/ambit-ymheastnorfolk
-ambit-ymhwestnorfolk URL 0 https://spaces.xememex.com/ambit-ymhwestnorfolk
-ambit-youngfutures URL 0 https://spaces.xememex.com/ambit-youngfutures
-ambit-younghackney URL 0 https://spaces.xememex.com/ambit-younghackney
-ambit-youngminds URL 0 https://spaces.xememex.com/ambit-youngminds
-ambit-ypc URL 0 https://spaces.xememex.com/ambit-ypc
-ambitioustester URL 0 https://spaces.xememex.com/ambitioustester
-arts-lewisham URL 0 https://spaces.xememex.com/arts-lewisham
-assp URL 0 https://spaces.xememex.com/assp
-assp-female URL 0 https://spaces.xememex.com/assp-female
-assp-male URL 0 https://spaces.xememex.com/assp-male
-assp-questions URL 0 https://spaces.xememex.com/assp-questions
-assp-results URL 0 https://spaces.xememex.com/assp-results
-assp-theme URL 0 https://spaces.xememex.com/assp-theme
-asspplus URL 0 https://spaces.xememex.com/asspplus
-asspplus-female URL 0 https://spaces.xememex.com/asspplus-female
-asspplus-male URL 0 https://spaces.xememex.com/asspplus-male
-asspplus-questions URL 0 https://spaces.xememex.com/asspplus-questions
-asspplus-results URL 0 https://spaces.xememex.com/asspplus-results
-camdenresilientpeople URL 0 https://spaces.xememex.com/camdenresilientpeople
-change URL 0 https://spaces.xememex.com/change
-cypiapt URL 0 https://spaces.xememex.com/cypiapt
-dickon URL 0 https://spaces.xememex.com/dickon
-dickonstiddlywikitips URL 0 https://spaces.xememex.com/dickonstiddlywikitips
-ealingbrighterfutures URL 0 https://spaces.xememex.com/ealingbrighterfutures
-eypu URL 0 https://spaces.xememex.com/eypu
-eypu-content URL 0 https://spaces.xememex.com/eypu-content
-fromthewoods URL 0 https://spaces.xememex.com/fromthewoods
-houstontester URL 0 https://spaces.xememex.com/houstontester
-lewisham-fftt URL 0 https://spaces.xememex.com/lewisham-fftt
-mac-projectfuture URL 0 https://spaces.xememex.com/mac-projectfuture
-mbtc URL 0 https://spaces.xememex.com/mbtc
-mbtf URL 0 https://spaces.xememex.com/mbtf
-mbtf-afc URL 0 https://spaces.xememex.com/mbtf-afc
-mbtf-content URL 0 https://spaces.xememex.com/mbtf-content
-mentalization URL 0 https://spaces.xememex.com/mentalization
-mha URL 0 https://spaces.xememex.com/mha
-mortaltides URL 0 https://spaces.xememex.com/mortaltides
-pcs URL 0 https://spaces.xememex.com/pcs
-pilot URL 0 https://spaces.xememex.com/pilot
-qcproject URL 0 https://spaces.xememex.com/qcproject
-questionnaire URL 0 https://spaces.xememex.com/questionnaire
-quittingstuff URL 0 https://spaces.xememex.com/quittingstuff
-regionsjaelland URL 0 https://spaces.xememex.com/regionsjaelland
-sib-treatments-literature URL 0 https://spaces.xememex.com/sib-treatments-literature
-simplesearchplugin URL 0 https://spaces.xememex.com/simplesearchplugin
-southwarkintegrate URL 0 https://spaces.xememex.com/southwarkintegrate
-sud-treatments-literature URL 0 https://spaces.xememex.com/sud-treatments-literature
-therapeutic-journal URL 0 https://spaces.xememex.com/therapeutic-journal
-tiddlymanuals URL 0 https://spaces.xememex.com/tiddlymanuals
-wave URL 0 https://spaces.xememex.com/wave
-westernaustraliacommunitycamhs URL 0 https://spaces.xememex.com/westernaustraliacommunitycamhs
-westernaustraliaspecialistcamhs URL 0 https://spaces.xememex.com/westernaustraliaspecialistcamhs
+afc-pcs URL 0 https://spaces.xememex.com/afc-pcs 900
+afc-theme URL 0 https://spaces.xememex.com/afc-theme 900
+ambit URL 0 https://spaces.xememex.com/ambit 900
+ambit-24sevenfostering URL 0 https://spaces.xememex.com/ambit-24sevenfostering 900
+ambit-2trfootball URL 0 https://spaces.xememex.com/ambit-2trfootball 900
+ambit-afc URL 0 https://spaces.xememex.com/ambit-afc 900
+ambit-aim URL 0 https://spaces.xememex.com/ambit-aim 900
+ambit-alot URL 0 https://spaces.xememex.com/ambit-alot 900
+ambit-altrecht URL 0 https://spaces.xememex.com/ambit-altrecht 900
+ambit-amass URL 0 https://spaces.xememex.com/ambit-amass 900
+ambit-aspirehouse URL 0 https://spaces.xememex.com/ambit-aspirehouse 900
+ambit-beechcroft URL 0 https://spaces.xememex.com/ambit-beechcroft 900
+ambit-belfastcfc URL 0 https://spaces.xememex.com/ambit-belfastcfc 900
+ambit-belfastdamhs URL 0 https://spaces.xememex.com/ambit-belfastdamhs 900
+ambit-belfastypc URL 0 https://spaces.xememex.com/ambit-belfastypc 900
+ambit-benjamin URL 0 https://spaces.xememex.com/ambit-benjamin 900
+ambit-bexley URL 0 https://spaces.xememex.com/ambit-bexley 900
+ambit-brathay URL 0 https://spaces.xememex.com/ambit-brathay 900
+ambit-bronzefield URL 0 https://spaces.xememex.com/ambit-bronzefield 900
+ambit-build-it URL 0 https://spaces.xememex.com/ambit-build-it 900
+ambit-burynorth URL 0 https://spaces.xememex.com/ambit-burynorth 900
+ambit-burysouth URL 0 https://spaces.xememex.com/ambit-burysouth 900
+ambit-cait URL 0 https://spaces.xememex.com/ambit-cait 900
+ambit-caldecott URL 0 https://spaces.xememex.com/ambit-caldecott 900
+ambit-cambsist URL 0 https://spaces.xememex.com/ambit-cambsist 900
+ambit-camden URL 0 https://spaces.xememex.com/ambit-camden 900
+ambit-camden16plus URL 0 https://spaces.xememex.com/ambit-camden16plus 900
+ambit-camdencentreforlearning URL 0 https://spaces.xememex.com/ambit-camdencentreforlearning 900
+ambit-camdencin URL 0 https://spaces.xememex.com/ambit-camdencin 900
+ambit-camdencommunitysafety URL 0 https://spaces.xememex.com/ambit-camdencommunitysafety 900
+ambit-camdencomplexneeds URL 0 https://spaces.xememex.com/ambit-camdencomplexneeds 900
+ambit-camdendutyassessment URL 0 https://spaces.xememex.com/ambit-camdendutyassessment 900
+ambit-camdenedpsychs URL 0 https://spaces.xememex.com/ambit-camdenedpsychs 900
+ambit-camdeneducationwelfareservice URL 0 https://spaces.xememex.com/ambit-camdeneducationwelfareservice 900
+ambit-camdeneis URL 0 https://spaces.xememex.com/ambit-camdeneis 900
+ambit-camdenfif URL 0 https://spaces.xememex.com/ambit-camdenfif 900
+ambit-camdenfutures URL 0 https://spaces.xememex.com/ambit-camdenfutures 900
+ambit-camdenhousing URL 0 https://spaces.xememex.com/ambit-camdenhousing 900
+ambit-camdenieys URL 0 https://spaces.xememex.com/ambit-camdenieys 900
+ambit-camdeniys URL 0 https://spaces.xememex.com/ambit-camdeniys 900
+ambit-camdeniyss URL 0 https://spaces.xememex.com/ambit-camdeniyss 900
+ambit-camdenjcp URL 0 https://spaces.xememex.com/ambit-camdenjcp 900
+ambit-camdenlac URL 0 https://spaces.xememex.com/ambit-camdenlac 900
+ambit-camdenmalt URL 0 https://spaces.xememex.com/ambit-camdenmalt 900
+ambit-camdenprobationteam URL 0 https://spaces.xememex.com/ambit-camdenprobationteam 900
+ambit-camdensit URL 0 https://spaces.xememex.com/ambit-camdensit 900
+ambit-camdenypservicesshp URL 0 https://spaces.xememex.com/ambit-camdenypservicesshp 900
+ambit-camhs4younghackney URL 0 https://spaces.xememex.com/ambit-camhs4younghackney 900
+ambit-casus URL 0 https://spaces.xememex.com/ambit-casus 900
+ambit-cemind URL 0 https://spaces.xememex.com/ambit-cemind 900
+ambit-childrensbureau URL 0 https://spaces.xememex.com/ambit-childrensbureau 900
+ambit-cityandhackneyamht URL 0 https://spaces.xememex.com/ambit-cityandhackneyamht 900
+ambit-clarelodge URL 0 https://spaces.xememex.com/ambit-clarelodge 900
+ambit-communitypsychologicalservices URL 0 https://spaces.xememex.com/ambit-communitypsychologicalservices 900
+ambit-content URL 0 https://spaces.xememex.com/ambit-content 900
+ambit-damhs URL 0 https://spaces.xememex.com/ambit-damhs 900
+ambit-darwin URL 0 https://spaces.xememex.com/ambit-darwin 900
+ambit-dasl URL 0 https://spaces.xememex.com/ambit-dasl 900
+ambit-derry-omagh URL 0 https://spaces.xememex.com/ambit-derry-omagh 900
+ambit-edinburgh URL 0 https://spaces.xememex.com/ambit-edinburgh 900
+ambit-enfieldgangs URL 0 https://spaces.xememex.com/ambit-enfieldgangs 900
+ambit-factswales URL 0 https://spaces.xememex.com/ambit-factswales 900
+ambit-familyandchildcare URL 0 https://spaces.xememex.com/ambit-familyandchildcare 900
+ambit-familytraumacentre URL 0 https://spaces.xememex.com/ambit-familytraumacentre 900
+ambit-flaxfieldunit URL 0 https://spaces.xememex.com/ambit-flaxfieldunit 900
+ambit-fundaciovidalibarraquer URL 0 https://spaces.xememex.com/ambit-fundaciovidalibarraquer 900
+ambit-fwd URL 0 https://spaces.xememex.com/ambit-fwd 900
+ambit-geneva-omp URL 0 https://spaces.xememex.com/ambit-geneva-omp 900
+ambit-glasgowlaac URL 0 https://spaces.xememex.com/ambit-glasgowlaac 900
+ambit-greenwichacan URL 0 https://spaces.xememex.com/ambit-greenwichacan 900
+ambit-guernsey URL 0 https://spaces.xememex.com/ambit-guernsey 900
+ambit-hackneymind URL 0 https://spaces.xememex.com/ambit-hackneymind 900
+ambit-hackneyyouth URL 0 https://spaces.xememex.com/ambit-hackneyyouth 900
+ambit-hadi URL 0 https://spaces.xememex.com/ambit-hadi 900
+ambit-help URL 0 https://spaces.xememex.com/ambit-help 900
+ambit-hmpswaleside URL 0 https://spaces.xememex.com/ambit-hmpswaleside 900
+ambit-howto URL 0 https://spaces.xememex.com/ambit-howto 900
+ambit-ifit URL 0 https://spaces.xememex.com/ambit-ifit 900
+ambit-install URL 0 https://spaces.xememex.com/ambit-install 900
+ambit-ious-share URL 0 https://spaces.xememex.com/ambit-ious-share 900
+ambit-ipswich URL 0 https://spaces.xememex.com/ambit-ipswich 900
+ambit-islington-aot URL 0 https://spaces.xememex.com/ambit-islington-aot 900
+ambit-islington-exemplar URL 0 https://spaces.xememex.com/ambit-islington-exemplar 900
+ambit-jandrcare URL 0 https://spaces.xememex.com/ambit-jandrcare 900
+ambit-juvenilejusticecentre URL 0 https://spaces.xememex.com/ambit-juvenilejusticecentre 900
+ambit-kenteis URL 0 https://spaces.xememex.com/ambit-kenteis 900
+ambit-kentlinkworker URL 0 https://spaces.xememex.com/ambit-kentlinkworker 900
+ambit-kentlinkworkers URL 0 https://spaces.xememex.com/ambit-kentlinkworkers 900
+ambit-kestrel URL 0 https://spaces.xememex.com/ambit-kestrel 900
+ambit-kidsco URL 0 https://spaces.xememex.com/ambit-kidsco 900
+ambit-kiteteam URL 0 https://spaces.xememex.com/ambit-kiteteam 900
+ambit-lakewoodcentre URL 0 https://spaces.xememex.com/ambit-lakewoodcentre 900
+ambit-lisburndownpatrickcamhs URL 0 https://spaces.xememex.com/ambit-lisburndownpatrickcamhs 900
+ambit-mac URL 0 https://spaces.xememex.com/ambit-mac 900
+ambit-mac-new-theme-test URL 0 https://spaces.xememex.com/ambit-mac-new-theme-test 900
+ambit-metjeugd URL 0 https://spaces.xememex.com/ambit-metjeugd 900
+ambit-montana URL 0 https://spaces.xememex.com/ambit-montana 900
+ambit-mulberry URL 0 https://spaces.xememex.com/ambit-mulberry 900
+ambit-northdownandardscamhs URL 0 https://spaces.xememex.com/ambit-northdownandardscamhs 900
+ambit-northernirelandgeneral URL 0 https://spaces.xememex.com/ambit-northernirelandgeneral 900
+ambit-northernirelandsharedcontent URL 0 https://spaces.xememex.com/ambit-northernirelandsharedcontent 900
+ambit-northerntrust URL 0 https://spaces.xememex.com/ambit-northerntrust 900
+ambit-nwg URL 0 https://spaces.xememex.com/ambit-nwg 900
+ambit-offcentre URL 0 https://spaces.xememex.com/ambit-offcentre 900
+ambit-offtherecord URL 0 https://spaces.xememex.com/ambit-offtherecord 900
+ambit-onlyconnect URL 0 https://spaces.xememex.com/ambit-onlyconnect 900
+ambit-pathways URL 0 https://spaces.xememex.com/ambit-pathways 900
+ambit-pepprep URL 0 https://spaces.xememex.com/ambit-pepprep 900
+ambit-plugins URL 0 https://spaces.xememex.com/ambit-plugins 900
+ambit-plymouth URL 0 https://spaces.xememex.com/ambit-plymouth 900
+ambit-prakashellenhorn URL 0 https://spaces.xememex.com/ambit-prakashellenhorn 900
+ambit-redthread URL 0 https://spaces.xememex.com/ambit-redthread 900
+ambit-righthere URL 0 https://spaces.xememex.com/ambit-righthere 900
+ambit-safe URL 0 https://spaces.xememex.com/ambit-safe 900
+ambit-saferlondon URL 0 https://spaces.xememex.com/ambit-saferlondon 900
+ambit-savu URL 0 https://spaces.xememex.com/ambit-savu 900
+ambit-selfharmteam URL 0 https://spaces.xememex.com/ambit-selfharmteam 900
+ambit-set-connects URL 0 https://spaces.xememex.com/ambit-set-connects 900
+ambit-southeasternbess-step2team URL 0 https://spaces.xememex.com/ambit-southeasternbess-step2team 900
+ambit-southeasterntrust URL 0 https://spaces.xememex.com/ambit-southeasterntrust 900
+ambit-southerntrustcamhs URL 0 https://spaces.xememex.com/ambit-southerntrustcamhs 900
+ambit-starproject URL 0 https://spaces.xememex.com/ambit-starproject 900
+ambit-stories URL 0 https://spaces.xememex.com/ambit-stories 900
+ambit-suffolkcentral URL 0 https://spaces.xememex.com/ambit-suffolkcentral 900
+ambit-suffolkcoastal URL 0 https://spaces.xememex.com/ambit-suffolkcoastal 900
+ambit-suffolkcore URL 0 https://spaces.xememex.com/ambit-suffolkcore 900
+ambit-syepp URL 0 https://spaces.xememex.com/ambit-syepp 900
+ambit-tasks URL 0 https://spaces.xememex.com/ambit-tasks 900
+ambit-test URL 0 https://spaces.xememex.com/ambit-test 900
+ambit-theme-v3 URL 0 https://spaces.xememex.com/ambit-theme-v3 900
+ambit-theme-v3-test URL 0 https://spaces.xememex.com/ambit-theme-v3-test 900
+ambit-theme-v3-transition URL 0 https://spaces.xememex.com/ambit-theme-v3-transition 900
+ambit-themeswitchtest URL 0 https://spaces.xememex.com/ambit-themeswitchtest 900
+ambit-therapeuticsupportservices URL 0 https://spaces.xememex.com/ambit-therapeuticsupportservices 900
+ambit-tht-talksafe URL 0 https://spaces.xememex.com/ambit-tht-talksafe 900
+ambit-torbay URL 0 https://spaces.xememex.com/ambit-torbay 900
+ambit-torbaycamhs URL 0 https://spaces.xememex.com/ambit-torbaycamhs 900
+ambit-tsdhc URL 0 https://spaces.xememex.com/ambit-tsdhc 900
+ambit-twcoretester URL 0 https://spaces.xememex.com/ambit-twcoretester 900
+ambit-twentyfoursevenfostering URL 0 https://spaces.xememex.com/ambit-twentyfoursevenfostering 900
+ambit-wandsworth URL 0 https://spaces.xememex.com/ambit-wandsworth 900
+ambit-westernaustraliacamhs URL 0 https://spaces.xememex.com/ambit-westernaustraliacamhs 900
+ambit-winch URL 0 https://spaces.xememex.com/ambit-winch 900
+ambit-winchproject URL 0 https://spaces.xememex.com/ambit-winchproject 900
+ambit-ymhcentralnorfolk URL 0 https://spaces.xememex.com/ambit-ymhcentralnorfolk 900
+ambit-ymheastnorfolk URL 0 https://spaces.xememex.com/ambit-ymheastnorfolk 900
+ambit-ymhwestnorfolk URL 0 https://spaces.xememex.com/ambit-ymhwestnorfolk 900
+ambit-youngfutures URL 0 https://spaces.xememex.com/ambit-youngfutures 900
+ambit-younghackney URL 0 https://spaces.xememex.com/ambit-younghackney 900
+ambit-youngminds URL 0 https://spaces.xememex.com/ambit-youngminds 900
+ambit-ypc URL 0 https://spaces.xememex.com/ambit-ypc 900
+ambitioustester URL 0 https://spaces.xememex.com/ambitioustester 900
+arts-lewisham URL 0 https://spaces.xememex.com/arts-lewisham 900
+assp URL 0 https://spaces.xememex.com/assp 900
+assp-female URL 0 https://spaces.xememex.com/assp-female 900
+assp-male URL 0 https://spaces.xememex.com/assp-male 900
+assp-questions URL 0 https://spaces.xememex.com/assp-questions 900
+assp-results URL 0 https://spaces.xememex.com/assp-results 900
+assp-theme URL 0 https://spaces.xememex.com/assp-theme 900
+asspplus URL 0 https://spaces.xememex.com/asspplus 900
+asspplus-female URL 0 https://spaces.xememex.com/asspplus-female 900
+asspplus-male URL 0 https://spaces.xememex.com/asspplus-male 900
+asspplus-questions URL 0 https://spaces.xememex.com/asspplus-questions 900
+asspplus-results URL 0 https://spaces.xememex.com/asspplus-results 900
+camdenresilientpeople URL 0 https://spaces.xememex.com/camdenresilientpeople 900
+change URL 0 https://spaces.xememex.com/change 900
+cypiapt URL 0 https://spaces.xememex.com/cypiapt 900
+dickon URL 0 https://spaces.xememex.com/dickon 900
+dickonstiddlywikitips URL 0 https://spaces.xememex.com/dickonstiddlywikitips 900
+ealingbrighterfutures URL 0 https://spaces.xememex.com/ealingbrighterfutures 900
+eypu URL 0 https://spaces.xememex.com/eypu 900
+eypu-content URL 0 https://spaces.xememex.com/eypu-content 900
+fromthewoods URL 0 https://spaces.xememex.com/fromthewoods 900
+houstontester URL 0 https://spaces.xememex.com/houstontester 900
+lewisham-fftt URL 0 https://spaces.xememex.com/lewisham-fftt 900
+mac-projectfuture URL 0 https://spaces.xememex.com/mac-projectfuture 900
+mbtc URL 0 https://spaces.xememex.com/mbtc 900
+mbtf URL 0 https://spaces.xememex.com/mbtf 900
+mbtf-afc URL 0 https://spaces.xememex.com/mbtf-afc 900
+mbtf-content URL 0 https://spaces.xememex.com/mbtf-content 900
+mentalization URL 0 https://spaces.xememex.com/mentalization 900
+mha URL 0 https://spaces.xememex.com/mha 900
+mortaltides URL 0 https://spaces.xememex.com/mortaltides 900
+pcs URL 0 https://spaces.xememex.com/pcs 900
+pilot URL 0 https://spaces.xememex.com/pilot 900
+qcproject URL 0 https://spaces.xememex.com/qcproject 900
+questionnaire URL 0 https://spaces.xememex.com/questionnaire 900
+quittingstuff URL 0 https://spaces.xememex.com/quittingstuff 900
+regionsjaelland URL 0 https://spaces.xememex.com/regionsjaelland 900
+sib-treatments-literature URL 0 https://spaces.xememex.com/sib-treatments-literature 900
+simplesearchplugin URL 0 https://spaces.xememex.com/simplesearchplugin 900
+southwarkintegrate URL 0 https://spaces.xememex.com/southwarkintegrate 900
+sud-treatments-literature URL 0 https://spaces.xememex.com/sud-treatments-literature 900
+therapeutic-journal URL 0 https://spaces.xememex.com/therapeutic-journal 900
+tiddlymanuals URL 0 https://spaces.xememex.com/tiddlymanuals 900
+wave URL 0 https://spaces.xememex.com/wave 900
+westernaustraliacommunitycamhs URL 0 https://spaces.xememex.com/westernaustraliacommunitycamhs 900
+westernaustraliaspecialistcamhs URL 0 https://spaces.xememex.com/westernaustraliaspecialistcamhs 900
 ; Spaces owned by @Jermolene
-jermolene URL 0 https://jermolene.com
+jermolene URL 0 https://jermolene.com 900
 ; --> Add your own space here
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; *.tiddlyspace.com
-* A 0 192.30.252.153
-* A 0 192.30.252.154
+* A 0 192.30.252.153 900
+* A 0 192.30.252.154 900
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
