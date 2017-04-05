@@ -216,6 +216,8 @@ straightwsgi URL 0 http://tiddlers.anticdent.org 900
 iboc URL 0 http://tiddlers.anticdent.org 900
 ; --> Spaces from acarv
 acarvalho URL 0 http://acarvalho.tiddlyspot.com 900
+; Spaces owned by @ssokolow
+ssokolow URL 0 http://ssokolow.com/ssokolow.tiddlyspace.com 900
 ; --> Add your own space here
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
